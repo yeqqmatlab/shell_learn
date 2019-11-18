@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+
+<resultset statement="select *  from tb_student
+" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <row>
+	<field name="name">tom</field>
+	<field name="course">chinese</field>
+	<field name="score">70</field>
+  </row>
+
+  <row>
+	<field name="name">tom</field>
+	<field name="course">maths</field>
+	<field name="score">90</field>
+  </row>
+
+  <row>
+	<field name="name">python</field>
+	<field name="course">it</field>
+	<field name="score">90</field>
+  </row>
+</resultset>
